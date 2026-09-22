@@ -100,7 +100,7 @@ A healthcare management system designed to support digital management of healthc
 
 ---
 
-### 🌐 Siaya Community Digital Hub
+### 🌐 Siaya Community Digital Hub Learning Platform
 
 A digital learning platform designed to provide accessible educational resources and community-oriented digital services.
 
